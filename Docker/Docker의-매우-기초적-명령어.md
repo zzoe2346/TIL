@@ -1,3 +1,4 @@
+Docker의 매우 기초적 명령어
 ## build
 docker build -t {imageName} .
 
