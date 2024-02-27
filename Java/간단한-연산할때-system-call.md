@@ -1,1 +1,0 @@
-간단한 연산 할 때의 system call 
