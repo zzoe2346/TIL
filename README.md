@@ -19,6 +19,7 @@
 - [Tomcat, Servlet](./Web/Tomcat-Servlet.md)
 
 ### Problem-Solving
+- [N-Queen](./Problem-Solving/N-Queen.md)
 - [도넛과 막대 그래프(2024 KAKAO WINTER INTERNSHIP)](./Problem-Solving/도넛과-막대-그래프.md)
 
 ### Spring
