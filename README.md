@@ -18,8 +18,8 @@
 - [CGI(Common Gateway Interface)](./Web/CGI.md)
 - [Tomcat, Servlet](./Web/Tomcat-Servlet.md)
 
-### Problem Solving
-- [도넛과 막대 그래프(2024 KAKAO WINTER INTERNSHIP)](./Problem Solving/도넛과-막대-그래프.md)
+### Problem-Solving
+- [도넛과 막대 그래프(2024 KAKAO WINTER INTERNSHIP)](./Problem-Solving/도넛과-막대-그래프.md)
 
 ### Spring
 - [스프링과 톰캣의 역할 분담](./Spring/스프링과-톰캣의-역할-분담.md)
