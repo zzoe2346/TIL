@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem-Solving/N-Queen.md",
+                "file": "Problem-Solving/모듈러연산-분할정복.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem-Solving/N-Queen.md",
+                "file": "Problem-Solving/모듈러연산-분할정복.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem-Solving/N-Queen.md",
+                "file": "Problem-Solving/모듈러연산-분할정복.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem-Solving/N-Queen.md"
+                "file": "Problem-Solving/모듈러연산-분할정복.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
-    "Spring/스프링과-톰캣의-역할-분담.md",
-    "Problem-Solving/N-Queen.md",
     "Problem-Solving/도넛과-막대-그래프.md",
+    "Problem-Solving/모듈러연산-분할정복.md",
+    "Problem-Solving/N-Queen.md",
+    "Spring/스프링과-톰캣의-역할-분담.md",
     "Problem-Solving",
     "Problem Solving/도넛과-막대-그래프.md",
     "Problem Solving",
