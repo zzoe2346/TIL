@@ -4,7 +4,7 @@
 ## Category
 ### Java
 - [Is Java a Compiler or Interpreter Based Language?](./Java/자바-컴파일-인터프리어-언어.md)
-- [Java의 equals(), hashCode(), Objects Class](./Java/equals-hashcode.md)
+- [Java의 equals(), hashCode(), Objects Class(Set 오버라이딩시 equals(),hashcode()를 둘다 해야야되는 이유)](./Java/equals-hashcode.md)
 - [int와 Integer에 관해서](./Java/int와-Integer에-관해서.md)
 - [Java compilation process](./Java/Java의-컴파일프로세스.md)
 
