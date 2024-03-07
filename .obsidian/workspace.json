@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/equals-hashcode.md",
+                "file": "Tech-Blog-Review/토스-db과부하방지팁.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb6d47bd8e209956",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/equals-hashcode.md",
+                "file": "Tech-Blog-Review/토스-db과부하방지팁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/equals-hashcode.md",
+                "file": "Tech-Blog-Review/토스-db과부하방지팁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/equals-hashcode.md"
+                "file": "Tech-Blog-Review/토스-db과부하방지팁.md"
               }
             }
           }
@@ -148,11 +149,17 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
+    "helper/TIL-HELPER.jar",
+    "helper",
+    "무제 폴더",
+    "TIL-HELPER.jar",
+    "Web/Tomcat-Servlet.md",
+    "Tech-Blog-Review/토스-db과부하방지팁.md",
+    "Tech-Blog-Review",
     "Java/Java의-컴파일프로세스.md",
     "Java/equals-hashcode.md",
     "Java/int와-Integer에-관해서.md",
     "Network/네트워크-용어정리.md",
-    "Web/Tomcat-Servlet.md",
     "Web/Java-Web-Application-Tutorial.md",
     "OS/Java에서-관리하는-Thread와-OS에서-관리하는-Thread.md",
     "Java/자바-컴파일-인터프리어-언어.md",
@@ -175,9 +182,6 @@
     "Web/HTTP-조금-더-자세히.md",
     "Java/fuck U.md",
     "test.md",
-    "Web",
-    "Spring",
-    "Java",
-    "Docker"
+    "Web"
   ]
 }

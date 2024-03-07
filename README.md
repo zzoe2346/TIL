@@ -1,5 +1,5 @@
 # TIL(Today I Learned)
-> 기껏 공부해놓고 계속 까먹어서 기록하려함
+> 세상에서 가장 어려운 일은 꾸준히 하는 것이다. 하지만 꾸준히 할 수 있게 되면 세상의 모든 것이 쉬워진다.
 
 ## Category
 ### Java
@@ -23,6 +23,9 @@
 - [모듈러연산의 분배법칙과 분할정복](./Problem-Solving/모듈러연산-분할정복.md)
 - [N-Queen](./Problem-Solving/N-Queen.md)
 - [도넛과 막대 그래프(2024 KAKAO WINTER INTERNSHIP)](./Problem-Solving/도넛과-막대-그래프.md)
+
+### Tech-Blog-Review
+- [(토스)DB과부하 방지 팁 ](./Tech-Blog-Review/토스-db과부하방지팁.md)
 
 ### Network
 - [헷갈리는 네트워크 용어 정리](./Network/네트워크-용어정리.md)
