@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6628dcd8d175136e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/api호출-적으면-좋은점.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Web/api호출-적으면-좋은점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Web/api호출-적으면-좋은점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Web/api호출-적으면-좋은점.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "de274a8d52067f74",
+  "active": "6628dcd8d175136e",
   "lastOpenFiles": [
+    "OS/fork()-exec()-간단설명.md",
+    "Web/api호출-적으면-좋은점.md",
     "Java/jvm의-스레드가-블로킹상태면-jvm프로세스는-어떻게되지.md",
     "Tech-Blog-Review/토스-db과부하방지팁.md",
     "helper/TIL-HELPER.jar",
