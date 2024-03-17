@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructure/hash-table.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure/hash-table.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure/hash-table.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure/hash-table.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
+    "DataStructure/hash-table.md",
+    "Data-Structure/hash-table.md",
+    "Data-Structure/Bloomfilter.md",
+    "Data-Structure",
     "tilHandler.jar",
     "README.md",
-    "DataStructure/hash-table.md",
     "Architecture",
     "DataStructure/Bloomfilter.md",
     "Web/api호출-적으면-좋은점.md",
@@ -177,12 +180,9 @@
     "Spring/스프링과-톰캣의-역할-분담.md",
     "Problem-Solving",
     "Problem Solving/도넛과-막대-그래프.md",
-    "Problem Solving",
     "ProblemSolving/도넛과-막대-그래프.md",
-    "ProblemSolving",
     "Spring/스프링-사용-이유.md",
     "Docker/Docker의-매우-기초적-명령어.md",
-    "Web/CGI.md",
-    "Java/간단한-연산할때-system-call.md"
+    "Web/CGI.md"
   ]
 }

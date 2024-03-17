@@ -4,9 +4,9 @@
 ## Category
 ### Architecture
 
-### DataStructure
-- [Hash Table 기본기](./DataStructure/hash-table.md)
-- [Bloom Filter](./DataStructure/Bloomfilter.md)
+### Data-Structure
+- [Hash Table 기본기](./Data-Structure/hash-table.md)
+- [Bloom Filter](./Data-Structure/Bloomfilter.md)
 
 ### Docker
 - [Docker의 매우 기초적 명령어](./Docker/Docker의-매우-기초적-명령어.md)
