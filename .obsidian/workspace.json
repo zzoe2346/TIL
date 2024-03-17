@@ -146,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "439e8c505a848bdc",
+  "active": "de274a8d52067f74",
   "lastOpenFiles": [
+    "tilHandler.jar",
     "README.md",
     "DataStructure/hash-table.md",
     "Architecture",
@@ -182,7 +183,6 @@
     "Spring/스프링-사용-이유.md",
     "Docker/Docker의-매우-기초적-명령어.md",
     "Web/CGI.md",
-    "Java/간단한-연산할때-system-call.md",
-    "Web/HTTP-조금-더-자세히.md"
+    "Java/간단한-연산할때-system-call.md"
   ]
 }
