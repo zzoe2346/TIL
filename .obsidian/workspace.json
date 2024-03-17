@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/api호출-적으면-좋은점.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/api호출-적으면-좋은점.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/api호출-적으면-좋은점.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/api호출-적으면-좋은점.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,13 +161,14 @@
   },
   "active": "6628dcd8d175136e",
   "lastOpenFiles": [
-    "OS/fork()-exec()-간단설명.md",
+    "Datastructure/Bloomfilter.md",
     "Web/api호출-적으면-좋은점.md",
+    "Datastructure",
+    "OS/fork()-exec()-간단설명.md",
     "Java/jvm의-스레드가-블로킹상태면-jvm프로세스는-어떻게되지.md",
     "Tech-Blog-Review/토스-db과부하방지팁.md",
     "helper/TIL-HELPER.jar",
     "helper",
-    "무제 폴더",
     "TIL-HELPER.jar",
     "Web/Tomcat-Servlet.md",
     "Tech-Blog-Review",
@@ -195,7 +196,6 @@
     "Java/간단한-연산할때-system-call.md",
     "OS",
     "Web/HTTP-조금-더-자세히.md",
-    "Java/fuck U.md",
-    "test.md"
+    "Java/fuck U.md"
   ]
 }
