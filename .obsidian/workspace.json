@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6628dcd8d175136e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "DataStructure/hash-table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DataStructure/hash-table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DataStructure/hash-table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DataStructure/hash-table.md"
               }
             }
           }
@@ -159,11 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6628dcd8d175136e",
+  "active": "439e8c505a848bdc",
   "lastOpenFiles": [
-    "Datastructure/Bloomfilter.md",
+    "README.md",
+    "DataStructure/hash-table.md",
+    "Architecture",
+    "DataStructure/Bloomfilter.md",
     "Web/api호출-적으면-좋은점.md",
-    "Datastructure",
+    "DataStructure",
     "OS/fork()-exec()-간단설명.md",
     "Java/jvm의-스레드가-블로킹상태면-jvm프로세스는-어떻게되지.md",
     "Tech-Blog-Review/토스-db과부하방지팁.md",
@@ -181,7 +171,6 @@
     "Java/자바-컴파일-인터프리어-언어.md",
     "Network",
     "Problem-Solving/모듈러연산-분할정복.md",
-    "README.md",
     "Problem-Solving/도넛과-막대-그래프.md",
     "Problem-Solving/N-Queen.md",
     "Spring/스프링과-톰캣의-역할-분담.md",
@@ -194,8 +183,6 @@
     "Docker/Docker의-매우-기초적-명령어.md",
     "Web/CGI.md",
     "Java/간단한-연산할때-system-call.md",
-    "OS",
-    "Web/HTTP-조금-더-자세히.md",
-    "Java/fuck U.md"
+    "Web/HTTP-조금-더-자세히.md"
   ]
 }

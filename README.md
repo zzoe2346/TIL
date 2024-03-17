@@ -2,8 +2,11 @@
 > 세상에서 가장 어려운 일은 꾸준히 하는 것이다. 하지만 꾸준히 할 수 있게 되면 세상의 모든 것이 쉬워진다.
 
 ## Category
-### Datastructure
-- [Bloom Filter](./Datastructure/Bloomfilter.md)
+### Architecture
+
+### DataStructure
+- [Hash Table 기본기](./DataStructure/hash-table.md)
+- [Bloom Filter](./DataStructure/Bloomfilter.md)
 
 ### Docker
 - [Docker의 매우 기초적 명령어](./Docker/Docker의-매우-기초적-명령어.md)
