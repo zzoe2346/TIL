@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OS/동기화-3대장.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb6d47bd8e209956",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OS/동기화-3대장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "OS/동기화-3대장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OS/동기화-3대장.md"
               }
             }
           }
@@ -148,12 +149,14 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
+    "Web/CGI.md",
+    "OS/동기화-3대장.md",
+    "README.md",
     "DataStructure/hash-table.md",
     "Data-Structure/hash-table.md",
     "Data-Structure/Bloomfilter.md",
     "Data-Structure",
     "tilHandler.jar",
-    "README.md",
     "Architecture",
     "DataStructure/Bloomfilter.md",
     "Web/api호출-적으면-좋은점.md",
@@ -181,8 +184,6 @@
     "Problem-Solving",
     "Problem Solving/도넛과-막대-그래프.md",
     "ProblemSolving/도넛과-막대-그래프.md",
-    "Spring/스프링-사용-이유.md",
-    "Docker/Docker의-매우-기초적-명령어.md",
-    "Web/CGI.md"
+    "Spring/스프링-사용-이유.md"
   ]
 }

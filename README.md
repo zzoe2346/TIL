@@ -24,6 +24,7 @@
 ### OS
 - [Java에서 관리하는 Thread와 OS에서 관리하는 Thread는 서로 다르다!](./OS/Java에서-관리하는-Thread와-OS에서-관리하는-Thread.md)
 - [fork()와 exec()의 차이 간단히!](./OS/fork()-exec()-간단설명.md)
+- [동기화 3대장(스핀락, 뮤텍스, 세마포)](./OS/동기화-3대장.md)
 
 ### Problem-Solving
 - [모듈러연산의 분배법칙과 분할정복](./Problem-Solving/모듈러연산-분할정복.md)
