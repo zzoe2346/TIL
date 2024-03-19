@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/동기화-3대장.md",
+                "file": "Architecture/아키텍처설계-기초용어.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/동기화-3대장.md",
+                "file": "Architecture/아키텍처설계-기초용어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/동기화-3대장.md",
+                "file": "Architecture/아키텍처설계-기초용어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/동기화-3대장.md"
+                "file": "Architecture/아키텍처설계-기초용어.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
-    "Web/CGI.md",
     "OS/동기화-3대장.md",
+    "Architecture/아키텍처설계-기초용어.md",
+    "Web/CGI.md",
     "README.md",
     "DataStructure/hash-table.md",
     "Data-Structure/hash-table.md",
@@ -183,7 +184,6 @@
     "Spring/스프링과-톰캣의-역할-분담.md",
     "Problem-Solving",
     "Problem Solving/도넛과-막대-그래프.md",
-    "ProblemSolving/도넛과-막대-그래프.md",
-    "Spring/스프링-사용-이유.md"
+    "ProblemSolving/도넛과-막대-그래프.md"
   ]
 }

@@ -3,6 +3,7 @@
 
 ## Category
 ### Architecture
+- [basic concepts for system architecture](./Architecture/아키텍처설계-기초용어.md)
 
 ### Data-Structure
 - [Hash Table 기본기](./Data-Structure/hash-table.md)
