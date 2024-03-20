@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/JWT.md",
+                "file": "Security/암호학-시작.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fb6d47bd8e209956",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/JWT.md",
+                "file": "Security/암호학-시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/JWT.md",
+                "file": "Security/암호학-시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/JWT.md"
+                "file": "Security/암호학-시작.md"
               }
             }
           }
@@ -149,12 +148,15 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
-    "Architecture/아키텍처설계-기초용어.md",
+    "스크린샷 2024-03-20 17.02.48.png",
     "Security/JWT.md",
+    "Security/암호학-시작.md",
+    "README.md",
+    "Web/api호출-적으면-좋은점.md",
+    "Architecture/아키텍처설계-기초용어.md",
     "Security",
     "OS/동기화-3대장.md",
     "Web/CGI.md",
-    "README.md",
     "DataStructure/hash-table.md",
     "Data-Structure/hash-table.md",
     "Data-Structure/Bloomfilter.md",
@@ -162,7 +164,6 @@
     "tilHandler.jar",
     "Architecture",
     "DataStructure/Bloomfilter.md",
-    "Web/api호출-적으면-좋은점.md",
     "DataStructure",
     "OS/fork()-exec()-간단설명.md",
     "Java/jvm의-스레드가-블로킹상태면-jvm프로세스는-어떻게되지.md",
@@ -182,8 +183,6 @@
     "Network",
     "Problem-Solving/모듈러연산-분할정복.md",
     "Problem-Solving/도넛과-막대-그래프.md",
-    "Problem-Solving/N-Queen.md",
-    "Spring/스프링과-톰캣의-역할-분담.md",
-    "Problem Solving/도넛과-막대-그래프.md"
+    "Problem-Solving/N-Queen.md"
   ]
 }
