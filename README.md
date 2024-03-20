@@ -35,6 +35,7 @@
 ### Security
 - [JWT 기초](./Security/JWT.md)
 - [암호학(cryptography) 첫걸음](./Security/암호학-시작.md)
+- [단방향 암호화](./Security/단방향암호화.md)
 
 ### Spring
 - [스프링과 톰캣의 역할 분담](./Spring/스프링과-톰캣의-역할-분담.md)
@@ -45,7 +46,7 @@
 
 ### Web
 - [Java Web Application Tutorial(굳!)](./Web/Java-Web-Application-Tutorial.md)
-- [API호출을 줄이면 구체적으로 뭐가 좋은가](./Web/api호출-적으면-좋은점.md)
+- [API호출을 줄이면 구체적으로 뭐가 좋은가](./Web/api호출-적으면-좋은점.md)
 - [CGI(Common Gateway Interface)](./Web/CGI.md)
 - [Tomcat, Servlet](./Web/Tomcat-Servlet.md)
 
