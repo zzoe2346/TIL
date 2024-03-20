@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/아키텍처설계-기초용어.md",
+                "file": "Security/JWT.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/아키텍처설계-기초용어.md",
+                "file": "Security/JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/아키텍처설계-기초용어.md",
+                "file": "Security/JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/아키텍처설계-기초용어.md"
+                "file": "Security/JWT.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
-    "OS/동기화-3대장.md",
     "Architecture/아키텍처설계-기초용어.md",
+    "Security/JWT.md",
+    "Security",
+    "OS/동기화-3대장.md",
     "Web/CGI.md",
     "README.md",
     "DataStructure/hash-table.md",
@@ -182,8 +184,6 @@
     "Problem-Solving/도넛과-막대-그래프.md",
     "Problem-Solving/N-Queen.md",
     "Spring/스프링과-톰캣의-역할-분담.md",
-    "Problem-Solving",
-    "Problem Solving/도넛과-막대-그래프.md",
-    "ProblemSolving/도넛과-막대-그래프.md"
+    "Problem Solving/도넛과-막대-그래프.md"
   ]
 }
