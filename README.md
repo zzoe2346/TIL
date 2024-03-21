@@ -33,6 +33,7 @@
 - [도넛과 막대 그래프(2024 KAKAO WINTER INTERNSHIP)](./Problem-Solving/도넛과-막대-그래프.md)
 
 ### Security
+- [양방향 암호화](./Security/양방향암호화.md)
 - [JWT 기초](./Security/JWT.md)
 - [암호학(cryptography) 첫걸음](./Security/암호학-시작.md)
 - [단방향 암호화](./Security/단방향암호화.md)
