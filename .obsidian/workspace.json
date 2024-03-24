@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/양방향암호화.md",
+                "file": "Problem-Solving-회고/구현-의존.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/양방향암호화.md",
+                "file": "Problem-Solving-회고/구현-의존.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/양방향암호화.md",
+                "file": "Problem-Solving-회고/구현-의존.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/양방향암호화.md"
+                "file": "Problem-Solving-회고/구현-의존.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
-    "Security/단방향암호화.md",
+    "Problem-Solving-회고/N-Queen.md",
+    "Problem-Solving-회고/구현-의존.md",
     "Security/양방향암호화.md",
+    "Security/단방향암호화.md",
     "README.md",
     "Web/api호출-적으면-좋은점.md",
     "Web/Tomcat-Servlet.md",
@@ -182,8 +184,6 @@
     "Network/네트워크-용어정리.md",
     "OS/Java에서-관리하는-Thread와-OS에서-관리하는-Thread.md",
     "Java/자바-컴파일-인터프리어-언어.md",
-    "Network",
-    "Problem-Solving/모듈러연산-분할정복.md",
-    "Problem-Solving/도넛과-막대-그래프.md"
+    "Network"
   ]
 }

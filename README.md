@@ -27,10 +27,11 @@
 - [fork()와 exec()의 차이 간단히!](./OS/fork()-exec()-간단설명.md)
 - [동기화 3대장(스핀락, 뮤텍스, 세마포)](./OS/동기화-3대장.md)
 
-### Problem-Solving
-- [모듈러연산의 분배법칙과 분할정복](./Problem-Solving/모듈러연산-분할정복.md)
-- [N-Queen](./Problem-Solving/N-Queen.md)
-- [도넛과 막대 그래프(2024 KAKAO WINTER INTERNSHIP)](./Problem-Solving/도넛과-막대-그래프.md)
+### Problem-Solving-회고
+- [모듈러연산의 분배법칙과 분할정복](./Problem-Solving-회고/모듈러연산-분할정복.md)
+- [N-Queen](./Problem-Solving-회고/N-Queen.md)
+- [도넛과 막대 그래프(2024 KAKAO WINTER INTERNSHIP)](./Problem-Solving-회고/도넛과-막대-그래프.md)
+- [(24.03.24)구현을 최우선으로 하지 말 것](./Problem-Solving-회고/구현-의존.md)
 
 ### Security
 - [양방향 암호화](./Security/양방향암호화.md)
