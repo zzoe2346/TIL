@@ -32,6 +32,7 @@
 - [N-Queen](./Problem-Solving-회고/N-Queen.md)
 - [도넛과 막대 그래프(2024 KAKAO WINTER INTERNSHIP)](./Problem-Solving-회고/도넛과-막대-그래프.md)
 - [(24.03.24)영역문제 경험 쌓기](./Problem-Solving-회고/영역문제.md)
+- [시간복잡도 익숙해지기](./Problem-Solving-회고/시간복잡도.md)
 - [(24.03.24)구현을 최우선으로 하지 말 것](./Problem-Solving-회고/구현-의존.md)
 
 ### Security
