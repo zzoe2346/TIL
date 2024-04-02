@@ -29,6 +29,7 @@
 
 ### Problem-Solving-회고
 - [모듈러연산의 분배법칙과 분할정복](./Problem-Solving-회고/모듈러연산-분할정복.md)
+- [Union-Find](./Problem-Solving-회고/Union-Find.md)
 - [N-Queen](./Problem-Solving-회고/N-Queen.md)
 - [도넛과 막대 그래프(2024 KAKAO WINTER INTERNSHIP)](./Problem-Solving-회고/도넛과-막대-그래프.md)
 - [(24.03.24)영역문제 경험 쌓기](./Problem-Solving-회고/영역문제.md)
