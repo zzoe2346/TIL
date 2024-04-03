@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem-Solving-회고/Union-Find.md",
+                "file": "Problem-Solving-회고/comparatorVSo1o2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb6d47bd8e209956",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem-Solving-회고/Union-Find.md",
+                "file": "Problem-Solving-회고/comparatorVSo1o2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem-Solving-회고/Union-Find.md",
+                "file": "Problem-Solving-회고/comparatorVSo1o2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem-Solving-회고/Union-Find.md"
+                "file": "Problem-Solving-회고/comparatorVSo1o2.md"
               }
             }
           }
@@ -148,10 +149,12 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
+    "Problem-Solving-회고/Union-Find.md",
+    "Problem-Solving-회고/comparatorVSo1o2.md",
+    "OS/file-system.md",
     "Problem-Solving-회고/영역문제.md",
     "Problem-Solving-회고/모듈러연산-분할정복.md",
     "Problem-Solving-회고/시간복잡도.md",
-    "Problem-Solving-회고/Union-Find.md",
     "Problem-Solving-회고/구현-의존.md",
     "Problem-Solving-회고/도넛과-막대-그래프.md",
     "Problem-Solving-회고/N-Queen.md",
@@ -178,12 +181,10 @@
     "DataStructure",
     "OS/fork()-exec()-간단설명.md",
     "Java/jvm의-스레드가-블로킹상태면-jvm프로세스는-어떻게되지.md",
-    "Tech-Blog-Review/토스-db과부하방지팁.md",
     "helper/TIL-HELPER.jar",
     "helper",
     "TIL-HELPER.jar",
     "Tech-Blog-Review",
-    "Java/Java의-컴파일프로세스.md",
     "Network"
   ]
 }
