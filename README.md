@@ -2,10 +2,6 @@
 > 세상에서 가장 어려운 일은 꾸준히 하는 것이다. 하지만 꾸준히 할 수 있게 되면 세상의 모든 것이 쉬워진다.
 
 ## Category
-### <Retrospective>Bus-Reminder-Project
-- [쿠키저장소를 이용한 유저 식별 기능 개발회고](./<Retrospective>Bus-Reminder-Project/로그인기능없이-사용자식별.md)
-- [프로젝트 종료 후 KPT 회고](./<Retrospective>Bus-Reminder-Project/버스리마인더-전체회고.md)
-
 ### Architecture
 - [basic concepts for system architecture](./Architecture/아키텍처설계-기초용어.md)
 
@@ -59,4 +55,8 @@
 - [API호출을 줄이면 구체적으로 뭐가 좋은가](./Web/api호출-적으면-좋은점.md)
 - [CGI(Common Gateway Interface)](./Web/CGI.md)
 - [Tomcat, Servlet](./Web/Tomcat-Servlet.md)
+
+### [회고]Bus-Reminder-Project
+- [쿠키저장소를 이용한 유저 식별 기능 개발회고](./[회고]Bus-Reminder-Project/로그인기능없이-사용자식별.md)
+- [프로젝트 종료 후 KPT 회고](./[회고]Bus-Reminder-Project/버스리마인더-전체회고.md)
 

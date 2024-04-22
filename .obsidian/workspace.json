@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/JWT.md",
+                "file": "[회고]Bus-Reminder-Project/로그인기능없이-사용자식별.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/JWT.md",
+                "file": "[회고]Bus-Reminder-Project/로그인기능없이-사용자식별.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/JWT.md",
+                "file": "[회고]Bus-Reminder-Project/로그인기능없이-사용자식별.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/JWT.md"
+                "file": "[회고]Bus-Reminder-Project/로그인기능없이-사용자식별.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "de274a8d52067f74",
   "lastOpenFiles": [
+    "Security/JWT.md",
     "Security/양방향암호화.md",
     "Problem-Solving-회고/N-Queen.md",
     "Problem-Solving-회고/Union-Find.md",
@@ -161,9 +162,9 @@
     "Data-Structure/hash-table.md",
     "Data-Structure/Bloomfilter.md",
     "Architecture/아키텍처설계-기초용어.md",
-    "<Retrospective>Bus-Reminder-Project/버스리마인더-전체회고.md",
-    "<Retrospective>Bus-Reminder-Project/로그인기능없이-사용자식별.md",
-    "<Retrospective>Bus-Reminder-Project",
+    "[회고]Bus-Reminder-Project/버스리마인더-전체회고.md",
+    "[회고]Bus-Reminder-Project/로그인기능없이-사용자식별.md",
+    "[회고]Bus-Reminder-Project",
     "Java/Java의-컴파일프로세스.md",
     "Problem-Solving-회고/도넛과-막대-그래프.md",
     "Web/Tomcat-Servlet.md",
@@ -175,7 +176,6 @@
     "Clean Code/1-의미있는이름.md",
     "Clean Code",
     "Problem-Solving-회고/comparatorVSo1o2.md",
-    "Problem-Solving-회고/영역문제.md",
     "tilHandler.jar",
     "스크린샷 2024-03-20 17.02.48.png",
     "Security",
