@@ -2,11 +2,27 @@
 > 세상에서 가장 어려운 일은 꾸준히 하는 것이다. 하지만 꾸준히 할 수 있게 되면 세상의 모든 것이 쉬워진다.
 
 ## Category
+### (회고)Bus-Reminder-Project
+- [쿠키저장소를 이용한 유저 식별 기능 개발회고](./(회고)Bus-Reminder-Project/로그인기능없이-사용자식별.md)
+- [프로젝트 종료 후 KPT 회고](./(회고)Bus-Reminder-Project/버스리마인더-전체회고.md)
+
+### Algorithm
+- [Kruskal](./Algorithm/Kruskal.md)
+
 ### Architecture
 - [basic concepts for system architecture](./Architecture/아키텍처설계-기초용어.md)
 
+### Book-Notes
+- [개발자 기술 면접 노트 ](./Book-Notes/개발자-기술-면접-노트.md)
+- [컴퓨터 밑바닥의 비밀](./Book-Notes/컴퓨터-밑바닥의-비밀.md)
+
+### Concurrency&Parallel-Programming
+- [동기화 3대장(스핀락, 뮤텍스, 세마포)](./Concurrency&Parallel-Programming/동기화-3대장.md)
+- [메모리 가시성이란?](./Concurrency&Parallel-Programming/메모리-가시성.md)
+
 ### Data-Structure
 - [Hash Table 기본기](./Data-Structure/hash-table.md)
+- [최소 신장 트리(Minimum Spanning Tree)](./Data-Structure/최소신장트리.md)
 - [Bloom Filter](./Data-Structure/Bloomfilter.md)
 
 ### Docker
@@ -25,7 +41,6 @@
 ### OS
 - [Java에서 관리하는 Thread와 OS에서 관리하는 Thread는 서로 다르다!](./OS/Java에서-관리하는-Thread와-OS에서-관리하는-Thread.md)
 - [fork()와 exec()의 차이 간단히!](./OS/fork()-exec()-간단설명.md)
-- [동기화 3대장(스핀락, 뮤텍스, 세마포)](./OS/동기화-3대장.md)
 
 ### Problem-Solving-회고
 - [모듈러연산의 분배법칙과 분할정복](./Problem-Solving-회고/모듈러연산-분할정복.md)
@@ -47,16 +62,14 @@
 - [스프링과 톰캣의 역할 분담](./Spring/스프링과-톰캣의-역할-분담.md)
 - [스프링 사용 이유](./Spring/스프링-사용-이유.md)
 
-### Tech-Blog-Review
-- [(토스)DB과부하 방지 팁 ](./Tech-Blog-Review/토스-db과부하방지팁.md)
+### Tech-Youtube&Blog-Notes
+- [(토스)DB과부하 방지 팁 ](./Tech-Youtube&Blog-Notes/토스-db과부하방지팁.md)
+- [[토스]"인자가 많은 메서드는 왜 나쁠까?"를 읽고](./Tech-Youtube&Blog-Notes/토스-많은인자.md)
+- [(당근)입사 2개월차 백엔드 개발자의 우당탕탕 개발 성장기](./Tech-Youtube&Blog-Notes/당근-인턴개발자.md)
 
 ### Web
 - [Java Web Application Tutorial(굳!)](./Web/Java-Web-Application-Tutorial.md)
 - [API호출을 줄이면 구체적으로 뭐가 좋은가](./Web/api호출-적으면-좋은점.md)
 - [CGI(Common Gateway Interface)](./Web/CGI.md)
 - [Tomcat, Servlet](./Web/Tomcat-Servlet.md)
-
-### [회고]Bus-Reminder-Project
-- [쿠키저장소를 이용한 유저 식별 기능 개발회고](./[회고]Bus-Reminder-Project/로그인기능없이-사용자식별.md)
-- [프로젝트 종료 후 KPT 회고](./[회고]Bus-Reminder-Project/버스리마인더-전체회고.md)
 
