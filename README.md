@@ -65,6 +65,8 @@
 ### Tech-Youtube&Blog-Notes
 - [(토스)DB과부하 방지 팁 ](./Tech-Youtube&Blog-Notes/토스-db과부하방지팁.md)
 - [[토스]"인자가 많은 메서드는 왜 나쁠까?"를 읽고](./Tech-Youtube&Blog-Notes/토스-많은인자.md)
+- [[카카오]"폭증하는 카카오톡 트래픽에 대처하는 방법"를 보고](./Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md)
+- [[토스]"은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기)"를 보고](./Tech-Youtube&Blog-Notes/토스-msa전환기.md)
 - [(당근)입사 2개월차 백엔드 개발자의 우당탕탕 개발 성장기](./Tech-Youtube&Blog-Notes/당근-인턴개발자.md)
 
 ### Web

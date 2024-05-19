@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "439e8c505a848bdc",
+  "active": "dd66570c5a90f355",
   "lastOpenFiles": [
-    "Tech-Youtube&Blog-Notes/당근-인턴개발자.md",
+    "Tech-Youtube&Blog-Notes/토스-msa전환기.md",
+    "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md",
     "Tech-Youtube&Blog-Notes/토스-많은인자.md",
+    "Java/Java의-컴파일프로세스.md",
+    "Java/int와-Integer에-관해서.md",
+    "Java/equals-hashcode.md",
+    "README.md",
+    "Tech-Youtube&Blog-Notes/당근-인턴개발자.md",
     "Tech-Notes",
     "Book-Notes/컴퓨터-밑바닥의-비밀.md",
     "Book-Notes/개발자-기술-면접-노트.md",
@@ -165,16 +171,11 @@
     "Concurrency&Parallel-Programming/메모리-가시성.md",
     "Java/자바-컴파일-인터프리어-언어.md",
     "Concurrency&Parallel-Programming",
-    "Java/int와-Integer에-관해서.md",
-    "Java/equals-hashcode.md",
-    "Java/Java의-컴파일프로세스.md",
     "Security/JWT.md",
     "Problem-Solving-회고/영역문제.md",
     "(회고)Bus-Reminder-Project/로그인기능없이-사용자식별.md",
     "(회고)Bus-Reminder-Project/버스리마인더-전체회고.md",
     "Network/네트워크-용어정리.md",
-    "Problem-Solving-회고/도넛과-막대-그래프.md",
-    "Problem-Solving-회고/모듈러연산-분할정복.md",
     "Pasted image 20240503131029.png",
     "Book-Notes",
     "Algorithm",
