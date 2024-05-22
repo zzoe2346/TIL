@@ -1,4 +1,4 @@
-Java의 equals(), hashCode(), Objects Class(Set 오버라이딩시 equals(),hashcode()를 둘다 해야야되는 이유)
+# Java의 equals(), hashCode(), Objects Class(Set 오버라이딩시 equals(),hashcode()를 둘다 해야야되는 이유)
 
 ```java
 @Override public int hashCode() { 

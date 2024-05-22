@@ -1,4 +1,4 @@
-Kruskal
+# Kruskal
 
 # 소개
 - 그리디를 활용

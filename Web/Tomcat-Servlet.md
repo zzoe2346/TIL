@@ -1,4 +1,4 @@
-Tomcat, Servlet
+# Tomcat, Servlet
 ## Servlet
 - 서블릿을 한마디로 정의하면 '웹 서버에서 동적 웹 콘텐츠를 생성하는 자바 프로그램'
 - 클라이언트 요청에 따라 동적으로 HTML 페이지를 생성.

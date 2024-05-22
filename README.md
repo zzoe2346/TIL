@@ -13,8 +13,15 @@
 - [basic concepts for system architecture](./Architecture/아키텍처설계-기초용어.md)
 
 ### Book-Notes
+- [마이크로서비스 아키텍처 구축 가이드](./Book-Notes/마이크로서비스-아키텍처-구축-가이드.md)
+- [데이터베이스를 지탱하는 기술](./Book-Notes/데이터베이스를-지탱하는-기술.md)
 - [개발자 기술 면접 노트 ](./Book-Notes/개발자-기술-면접-노트.md)
 - [컴퓨터 밑바닥의 비밀](./Book-Notes/컴퓨터-밑바닥의-비밀.md)
+- [이펙티브 엔지니어](./Book-Notes/이펙티브-엔지니어.md)
+- [개발자를 위한 레디스](./Book-Notes/개발자를-위한-레디스.md)
+- [대규모 시스템 설계 기초](./Book-Notes/대규모-시스템-설계-기초.md)
+- [CODE](./Book-Notes/CODE.md)
+- [자바 객체 지향의 원리와 이해](./Book-Notes/자바-객체-지향의-원리와-이해.md)
 
 ### Concurrency&Parallel-Programming
 - [동기화 3대장(스핀락, 뮤텍스, 세마포)](./Concurrency&Parallel-Programming/동기화-3대장.md)
@@ -24,6 +31,10 @@
 - [Hash Table 기본기](./Data-Structure/hash-table.md)
 - [최소 신장 트리(Minimum Spanning Tree)](./Data-Structure/최소신장트리.md)
 - [Bloom Filter](./Data-Structure/Bloomfilter.md)
+
+### Database
+- [행 수준 락(row-level locking)이란](./Database/행-수준-락.md)
+- [jdbc와 mysql은 어떻게 연결이 되고 어떤방식으로 서로 통신하는가?](./Database/jdbc-mysql-연결-통신방식.md)
 
 ### Docker
 - [Docker의 매우 기초적 명령어](./Docker/Docker의-매우-기초적-명령어.md)
@@ -50,7 +61,7 @@
 - [(24.03.24)영역문제 경험 쌓기](./Problem-Solving-회고/영역문제.md)
 - [return o2 - o1;의 치명적 약점](./Problem-Solving-회고/comparatorVSo1o2.md)
 - [시간복잡도 익숙해지기](./Problem-Solving-회고/시간복잡도.md)
-- [(24.03.24)구현을 최우선으로 하지 말 것](./Problem-Solving-회고/구현-의존.md)
+- [구현을 최우선으로 하지 말 것](./Problem-Solving-회고/구현-의존.md)
 
 ### Security
 - [양방향 암호화](./Security/양방향암호화.md)
@@ -63,11 +74,11 @@
 - [스프링 사용 이유](./Spring/스프링-사용-이유.md)
 
 ### Tech-Youtube&Blog-Notes
-- [(토스)DB과부하 방지 팁 ](./Tech-Youtube&Blog-Notes/토스-db과부하방지팁.md)
+- [[토스]DB과부하 방지 팁 ](./Tech-Youtube&Blog-Notes/토스-db과부하방지팁.md)
 - [[토스]"인자가 많은 메서드는 왜 나쁠까?"를 읽고](./Tech-Youtube&Blog-Notes/토스-많은인자.md)
 - [[카카오]"폭증하는 카카오톡 트래픽에 대처하는 방법"를 보고](./Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md)
 - [[토스]"은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기)"를 보고](./Tech-Youtube&Blog-Notes/토스-msa전환기.md)
-- [(당근)입사 2개월차 백엔드 개발자의 우당탕탕 개발 성장기](./Tech-Youtube&Blog-Notes/당근-인턴개발자.md)
+- [[당근]입사 2개월차 백엔드 개발자의 우당탕탕 개발 성장기](./Tech-Youtube&Blog-Notes/당근-인턴개발자.md)
 
 ### Web
 - [Java Web Application Tutorial(굳!)](./Web/Java-Web-Application-Tutorial.md)

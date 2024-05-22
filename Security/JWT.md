@@ -1,4 +1,4 @@
-JWT 기초
+# JWT 기초
 - Json Web Token = JWT
 - 편지 역할
 - Header, Payload, Signature 이것들을 base64로 인코딩

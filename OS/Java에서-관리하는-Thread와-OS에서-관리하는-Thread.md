@@ -1,4 +1,4 @@
-Java에서 관리하는 Thread와 OS에서 관리하는 Thread는 서로 다르다!
+# Java에서 관리하는 Thread와 OS에서 관리하는 Thread는 서로 다르다!
 24.02.27
 
 ## 자바가 관리하는 쓰레드 (Java Thread)

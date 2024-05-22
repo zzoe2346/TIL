@@ -1,4 +1,4 @@
-[토스]"은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기)"를 보고
+# [토스]"은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기)"를 보고
 
 https://youtu.be/amTJyIE1wO0?si=BDRdAN0Ct10jZ31S
 

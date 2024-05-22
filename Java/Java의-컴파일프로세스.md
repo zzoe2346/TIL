@@ -1,4 +1,4 @@
-Java compilation process
+# Java compilation process
 24.02.27
 
 - The source code of a Java code is compiled into an intermediate binary code known as the Bytecode during the Java compilation process. 

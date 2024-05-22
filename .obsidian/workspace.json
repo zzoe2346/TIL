@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,35 +148,36 @@
   },
   "active": "dd66570c5a90f355",
   "lastOpenFiles": [
+    "Web/Tomcat-Servlet.md",
+    "Web/Java-Web-Application-Tutorial.md",
+    "Web/CGI.md",
+    "Web/api호출-적으면-좋은점.md",
+    "Pasted image 20240503131029.png",
     "Tech-Youtube&Blog-Notes/토스-msa전환기.md",
-    "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md",
+    "Tech-Youtube&Blog-Notes/토스-db과부하방지팁.md",
     "Tech-Youtube&Blog-Notes/토스-많은인자.md",
-    "Java/Java의-컴파일프로세스.md",
-    "Java/int와-Integer에-관해서.md",
-    "Java/equals-hashcode.md",
-    "README.md",
     "Tech-Youtube&Blog-Notes/당근-인턴개발자.md",
-    "Tech-Notes",
-    "Book-Notes/컴퓨터-밑바닥의-비밀.md",
-    "Book-Notes/개발자-기술-면접-노트.md",
+    "Tech-Youtube&Blog-Notes/카카오-카톡트래픽대처.md",
     "Spring/스프링과-톰캣의-역할-분담.md",
     "Spring/스프링-사용-이유.md",
-    "Security/암호학-시작.md",
-    "Security/양방향암호화.md",
-    "Concurrency&Parallel-Programming/동기화-3대장.md",
-    "OS/fork()-exec()-간단설명.md",
-    "OS/Java에서-관리하는-Thread와-OS에서-관리하는-Thread.md",
-    "Data-Structure/Bloomfilter.md",
-    "Data-Structure/최소신장트리.md",
-    "Concurrency&Parallel-Programming/메모리-가시성.md",
-    "Java/자바-컴파일-인터프리어-언어.md",
-    "Concurrency&Parallel-Programming",
     "Security/JWT.md",
+    "Security/양방향암호화.md",
+    "Security/암호학-시작.md",
+    "Security/단방향암호화.md",
+    "Problem-Solving-회고/Union-Find.md",
+    "Problem-Solving-회고/N-Queen.md",
+    "Problem-Solving-회고/comparatorVSo1o2.md",
     "Problem-Solving-회고/영역문제.md",
-    "(회고)Bus-Reminder-Project/로그인기능없이-사용자식별.md",
-    "(회고)Bus-Reminder-Project/버스리마인더-전체회고.md",
+    "Problem-Solving-회고/시간복잡도.md",
+    "Problem-Solving-회고/모듈러연산-분할정복.md",
+    "Problem-Solving-회고/도넛과-막대-그래프.md",
+    "Problem-Solving-회고/구현-의존.md",
+    "OS/Java에서-관리하는-Thread와-OS에서-관리하는-Thread.md",
+    "OS/fork()-exec()-간단설명.md",
     "Network/네트워크-용어정리.md",
-    "Pasted image 20240503131029.png",
+    "Database",
+    "Tech-Notes",
+    "Concurrency&Parallel-Programming",
     "Book-Notes",
     "Algorithm",
     "(회고)Bus-Reminder-Project",
@@ -184,7 +185,6 @@
     "tilHandler.jar",
     "스크린샷 2024-03-20 17.02.48.png",
     "Security",
-    "Data-Structure",
-    "Architecture"
+    "Data-Structure"
   ]
 }
