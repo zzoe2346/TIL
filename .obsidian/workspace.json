@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34d32e8673eb57e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "<1>궁금증/데몬이란.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1670d08857bf2ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "<1>궁금증/자바-2차원순환시-어떻게-캐싱.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a10e8931cfc48165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,34 +183,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dd66570c5a90f355",
+  "active": "a10e8931cfc48165",
   "lastOpenFiles": [
-    "<1>궁금증/JWT.md",
-    "<1>궁금증/단방향암호화.md",
+    "프밍3.md",
+    "README.md",
+    "<1>궁금증/암호학-시작.md",
     "<1>궁금증/양방향암호화.md",
-    "<1>궁금증/토스-msa전환기.md",
-    "<1>궁금증/토스-많은인자.md",
-    "<1>궁금증/카카오-카톡트래픽대처.md",
+    "<1>궁금증/자바-2차원순환시-어떻게-캐싱.md",
+    "<1>궁금증/행-수준-락.md",
+    "<1>궁금증/스프링-톰캣-역할분담.md",
+    "<1>궁금증/스프링을-왜쓰나.md",
+    "<1>궁금증/오래걸리는Singleton객체의-처리.md",
     "<3>유용한것들/네트워크-용어정리.md",
     "<3>유용한것들/Docker교과서에서-익힌-명령어.md",
+    "<1>궁금증/자바-변수선언순서-최적화영향.md",
+    "<1>궁금증/카카오-카톡트래픽대처.md",
+    "<4>Archive/읽은-책들.md",
+    "<4>Archive/좋은-유튜브-채널-모음.md",
+    "<4>Archive/기업-기술블로그-모음.md",
     "<4>Archive/코테-연습-기록.md",
     "<4>Archive/참조할-만한-블로그-모음.md",
-    "<4>Archive/좋은-유튜브-채널-모음.md",
-    "<4>Archive/읽은-책들.md",
-    "<4>Archive/기업-기술블로그-모음.md",
-    "<2>겪은-문제와-해결과정/Union-Find.md",
-    "Problem-Solving-회고/N-Queen.md",
+    "<1>궁금증/토스-msa전환기.md",
+    "<1>궁금증/토스-db과부하방지팁.md",
+    "<1>궁금증/메모리-가시성.md",
+    "<1>궁금증/함수형인터페이스-왜-사용.md",
+    "<1>궁금증/함수형인터페이스입문.md",
+    "<1>궁금증/동기화-3대장.md",
     "<2>겪은-문제와-해결과정/comparatorVSo1o2.md",
-    "Problem-Solving-회고/영역문제.md",
-    "<2>겪은-문제와-해결과정/스택활용시-시간복잡도.md",
-    "Problem-Solving-회고/시간복잡도.md",
-    "Problem-Solving-회고/모듈러연산-분할정복.md",
-    "Problem-Solving-회고/도넛과-막대-그래프.md",
-    "<2>겪은-문제와-해결과정/시간복잡도.md",
-    "Problem-Solving-회고/구현-의존.md",
-    "<1>궁금증/자바-2차원순환시-어떻게-캐싱.md",
-    "<1>궁금증/자바-변수선언순서-최적화영향.md",
-    "<1>궁금증/DB-해시인덱스-결국선형검색.md",
+    "<1>궁금증/데몬이란.md",
     "옛날꺼",
     "Pasted image 20240503131029.png",
     "<1>궁금증",
